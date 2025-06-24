@@ -89,4 +89,4 @@ This task forms a foundational step towards more complex applications like dashb
 
 <img width="1792" alt="Image" src="https://github.com/user-attachments/assets/00ef5b2a-f483-4219-a14e-e104c463f835" />
 <img width="1792" alt="Image" src="https://github.com/user-attachments/assets/313da8f6-88e4-4dd7-b1d3-d5116755a32e" />
-<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/cb332d20-2bfe-499b-bf9f-484949dfb5c3" />
+<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/df4ffd9e-0e4d-4f27-81de-200d099442cc" />
