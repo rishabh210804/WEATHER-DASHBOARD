@@ -83,3 +83,8 @@ Conclusion:
 This task successfully demonstrated the complete workflow of a real-world data science mini-project: integrating with an external data source, performing data extraction and transformation, and using visualization to gain insights. It helped reinforce Python programming concepts, API handling, JSON parsing, and effective use of data analysis libraries. Moreover, it showcased the ability to translate raw data into meaningful visual stories, which is a crucial skill in data analytics and software development.
 
 This task forms a foundational step towards more complex applications like dashboards, forecasting models, or integrating data from multiple APIs.
+
+
+#OUTPUT
+
+<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/00ef5b2a-f483-4219-a14e-e104c463f835" />
